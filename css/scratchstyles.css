@@ -1,0 +1,46 @@
+.common{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.header{
+    height: 100px; 
+    background-color: black;
+    color: white;
+    line-height: 100px;
+}
+
+.mainbody{
+    background-color: whitesmoke;
+    color: black;
+    right: 5px; 
+    left: 5px;
+}
+ol{
+    list-style-position: inside;
+    text-align: center;
+}
+ul{
+    list-style-position: inside;
+    text-align: center;
+}
+img{
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 30%;
+}
+h2{
+    text-align: center;
+}
+
+.footer{
+    background-color: tan;
+    color: white;
+    height: 25px; 
+    padding-top: 5px;
+    bottom: 0px; 
+    right: 6px; 
+    left: 6px; 
+    position: fixed;
+}
